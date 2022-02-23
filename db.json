@@ -1,0 +1,44 @@
+{
+  "news": [
+    {
+      "id": "52206ccd-8806-4882-b3cf-44da782157d1",
+      "title": "COVID-19: Staff shortages stoke fears at hospital near Paris",
+      "desc": "At a hospital near Paris, where 90% of COVID-19 patients are unvaccinated, doctors and staff worry about their \"capacity to receive patients\" as France reported 208,000 new cases on Wednesday, the country's highest daily figure since the pandemic began.",
+      "category": "world"
+    },
+    {
+      "id": "f510f736-fe9f-4eb7-a908-564d6d6758cf",
+      "title": "How Qatar is protecting its wildlife and special traditions",
+      "desc": "Qatar is making big moves to protect its wildlife, from preserving the importance of the falcon and camel, to ensuring the country’s mangroves flourish.",
+      "category": "sport"
+    },
+    {
+      "id": "6942b6f3-9ad1-4c14-aa45-2669b57e0cd9",
+      "title": "Will EU drop testing for fully-vaxxed Brits before Easter?",
+      "desc": "Fully-vaccinated UK tourists should be allowed to enter the EU without a COVID-19 test next month, the European Council has announced.\n\nAlthough the recommendation is not legally binding for EU member states, it suggests that the tide is turning for travel restrictions on the continent.",
+      "category": "tourism"
+    }
+  ],
+  "filters": [
+    {
+      "name": "all",
+      "label": "All",
+      "className": "btn-outline-dark"
+    },
+    {
+      "name": "tourism",
+      "label": "Tourism",
+      "className": "btn-outline-danger"
+    },
+    {
+      "name": "sport",
+      "label": "Sport",
+      "className": "btn-outline-primary"
+    },
+    {
+      "name": "world",
+      "label": "World",
+      "className": "btn-outline-secondary"
+    }
+  ]
+}
